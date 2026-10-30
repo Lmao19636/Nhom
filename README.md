@@ -1,5 +1,3 @@
-# Nhom
+# Nhom 
 ok
-heheêh
-phuonglinh
-s4
+hello world
