@@ -10,3 +10,4 @@ hello world
 
 
 print(chuong)
+xin chao thay giao
