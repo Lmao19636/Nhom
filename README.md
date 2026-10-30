@@ -3,4 +3,4 @@ ok
 heheêh
 phuonglinh
 teemee
-hhhhh
+print(dat)
