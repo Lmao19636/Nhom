@@ -10,3 +10,5 @@ hello world
 
 
 print(chuong)
+hihi
+LGTV
